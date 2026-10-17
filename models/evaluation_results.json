@@ -1,0 +1,14 @@
+{
+  "Naive Bayes": {
+    "accuracy": 85.21,
+    "training_time_seconds": 4.6
+  },
+  "Logistic Regression": {
+    "accuracy": 85.02,
+    "training_time_seconds": 7.0
+  },
+  "Linear SVM": {
+    "accuracy": 85.6,
+    "training_time_seconds": 4.9
+  }
+}
